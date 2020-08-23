@@ -11,4 +11,4 @@ get unzip it and install the file named as free-screen-recorder-1000.exe
  Open the file named as Remove-water-mark.txt and perform the steps to remove WaterMark
 # 
 ``` 
-## You can Perform Different settings of Software for that check the screenshots folder
+## You can configure the settings of Software according to your needs, for that check the screenshots folder
