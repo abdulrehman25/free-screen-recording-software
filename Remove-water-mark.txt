@@ -1,0 +1,13 @@
+Go to the Partition In Which you have Installed:
+Go to Program Files (x86)
+Go to Thundersoft
+Go to Free Screen Recorder
+Go to Language
+Select and Open ( English.ini )
+Then search for ( strWatermark2 ) and remove the text ( www.thundershare.net )
+
+Now Relaunch the App:
+
+Mostly this the Path to the folder:
+C:\Program Files (x86)\ThunderSoft\Free Screen Recorder\Language
+strWatermark2
